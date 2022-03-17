@@ -1,0 +1,38 @@
+body {
+    background: url("../images/bg2.jpg");
+    background-repeat: no-repeat;
+    background-position: 90% 90%;
+    background-size: 40vw;
+    padding: 10px;
+}
+
+.nav {
+    float: right;
+}
+
+.logo>img {
+    color:rgba(0, 0, 0, 1);
+    height: 5vw;
+    float: left;
+    margin: 1vw;
+    margin-left: 2vw;
+}
+
+.nav>span {
+    color: rgba(0, 0, 0, 1);
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 1.7vw;
+    margin: 1vw;
+    margin-right: 2vw;
+}
+
+.para {
+    height: 30vw;
+    width: 40vw;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 1.5vw;
+    margin-top: 18vw;
+    margin-left: 5vw;
+}

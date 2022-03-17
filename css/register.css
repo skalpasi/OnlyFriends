@@ -1,0 +1,41 @@
+body {
+    background: url("../images/v7_12.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 10px;
+}
+
+.nav {
+    float: right;
+}
+
+.logo>img {
+    color:rgba(0, 0, 0, 1);
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 4vw;
+    height: 6vw;
+    float: left;
+    margin: 1vw;
+    margin-left: 2vw;
+}
+
+.nav>span {
+    color: rgba(0, 0, 0, 1);
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 2vw;
+    margin: 1vw;
+    margin-right: 2vw;
+}
+
+.para {
+    height: 30vw;
+    width: 40vw;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 2vw;
+    margin-top: 13vw;
+    margin-left: 5vw;
+}
